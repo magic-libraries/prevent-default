@@ -20,8 +20,8 @@ export const View = state => [
 
   Pre(`
 a({
-  to: '/somewhere',
-  onclick: [actions.component.click, lib.preventDefault],
+  to: '/somewhere/',
+  onclick: [actions.go, lib.preventDefault],
 })
 
 form({
