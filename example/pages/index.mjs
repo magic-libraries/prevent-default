@@ -1,10 +1,10 @@
 export const View = state => [
-  h2('@magic-libraries/uri'),
+  h2(state.title),
 
   p([
     Link({ to: 'https://magic.github.io/core' }, '@magic'),
     '-client library:',
-    ' effect that calls event.preventDefault().',
+    ' effect that calls event.preventDefault.',
   ]),
 
   GitBadges('magic-libraries/prevent-default'),
