@@ -1,6 +1,6 @@
 {
   "name": "@magic-libraries/prevent-default",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Wizards & Witches",
   "license": "AGPL-3.0",
   "description": "@magic-libraries/preventDefault, effect usable to call event.preventDefault. Preinstalled in @magic/core.",
