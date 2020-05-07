@@ -6,7 +6,7 @@
   "description": "@magic-libraries/preventDefault, effect usable to call event.preventDefault. Preinstalled in @magic/core.",
   "homepage": "https://magic-libraries.github.io/prevent-default/",
   "engines": {
-    "node": ">=13.5.0"
+    "node": ">=14.2.0"
   },
   "engineStrict": true,
   "scripts": {
